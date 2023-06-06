@@ -89,8 +89,8 @@ You need to store the intake forms according to the requirements.
 Solution:
 1. Create an Azure Cosmos DB database with Storage Service Encryption enabled.
 2. Store the intake forms in the Azure Cosmos DB database.
-Does the solution meet the goal?
-A. Yes
-B. No
+   Does the solution meet the goal?
+   A. Yes
+   B. No
 
-    La respuesta seria No, ya que seria mas conveniente crear un keyVault de Azure y una llave publica de encriptación, y dicha llave almacenarla en un Azure Storage Blob Storage
+		La respuesta seria No, ya que seria mas conveniente crear un keyVault de Azure y una llave publica de encriptación, y dicha llave almacenarla en un Azure Storage Blob Storage
