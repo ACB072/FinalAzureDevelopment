@@ -34,7 +34,7 @@ You need to retrieve the database connection string.
 Which values should you use? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![Tema1_Pregunta1](imagenes\Tema1_Pregunta2.JPG)
+![image](/imagenes/Tema1_Pregunta2.jpg)
 
     La conexion de la base de datos de azure recupera el REST API vault.azure.net/secrets/
     
@@ -62,7 +62,7 @@ How should you complete the code that you will add at line PC26? To answer, sele
 options in the answer area.
 NOTE: Each correct selection is worth one point.
 
-![Tema1_Pregunta1](imagenes\Tema1_Pregunta1.JPG)
+![image](/imagenes/Tema1_Pregunta1.jpg)
 
 La respuesta seria:
 
